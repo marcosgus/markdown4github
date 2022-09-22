@@ -1,3 +1,8 @@
+# Start writing on GitHub
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Basic writing and formatting syntax [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings/).
+
 Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
@@ -246,7 +251,4 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
 
-# Start writing on GitHub
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-Basic writing and formatting syntax [GitHub Pages](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings/).
